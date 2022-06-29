@@ -1,0 +1,43 @@
+.text-white {
+    color: white;
+}
+
+.pointer {
+    cursor: pointer;
+}
+
+.flex {
+    display: flex;
+}
+
+.hidden {
+    display: none;
+}
+
+.flex-col {
+    flex-direction: column;
+}
+
+.h-100 {
+    height: 100%;
+}
+
+.flex-1 {
+    flex: 1;
+}
+
+.justify-end {
+    justify-content: flex-end;
+}
+
+.mb-2 {
+    margin-bottom: 6px;
+}
+
+.pr-2 {
+    padding-right: 6px;
+}
+
+.pl-2 {
+    padding-left: 6px;
+}

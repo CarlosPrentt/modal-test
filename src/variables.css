@@ -1,0 +1,8 @@
+:root {
+    --bg: #000;
+    --shadow:rgb(140, 138, 138);
+    --green:rgb(3, 109, 3);
+    --red:rgb(179, 0, 0);
+    --gray:rgb(226, 226, 226);
+    --light-gray:#ccc;
+}
